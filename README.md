@@ -10,8 +10,8 @@ Handles attributes, repeated elements, and text content gracefully.
 - CLI supports printing to console or writing to JSON file
 
 ## Usage Examples
-# Print parsed XML to console
+### Print parsed XML to console
 python XML_Parser.py sample.xml
 
-# Write parsed output to a JSON file
+### Write parsed output to a JSON file
 python XML_Parser.py sample.xml -o parsed.json
